@@ -1,4 +1,4 @@
-# star_file_parser
+# A script that can parse STAR files of EM data. 
 
 #Original script: 
 
