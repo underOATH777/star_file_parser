@@ -7,7 +7,7 @@ https://github.com/delarosatrevin/em-metadata
 #Changes:
 Now it can run on both Python 2.X and 3.x. It supports change column value and add new column with a set value that can come from an existing value. Column value can be "random" to set a random float between 0 and 360.
 
-#Example runs:
+#Example syntax:
 
 python script.py -h 
 #for help and script options.
